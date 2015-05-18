@@ -1,0 +1,17 @@
+{
+  "name": "svg-cli-util",
+  "version": "0.0.1",
+  "description": "Converts an SVG graphic into the specified color for all paths and shapes",
+  "main": "svg-cli-util.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "glob": "^5.0.6",
+    "svg2png": "^1.1.1",
+    "xml2js": "^0.4.8"
+  }
+}
